@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/melody/Downloads/aip-ocr-android-sdk-1.3.0/OCRDemo/ocr_ui/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/melody/.android/build-cache/2759c373c60ef514b674faaa239b61aa5c463d16/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/melody/Downloads/aip-ocr-android-sdk-1.3.0/OCRDemo/ocr_ui/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/melody/.android/build-cache/2759c373c60ef514b674faaa239b61aa5c463d16/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

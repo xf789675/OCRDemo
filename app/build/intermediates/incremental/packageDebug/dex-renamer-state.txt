@@ -1,0 +1,7 @@
+#Tue Sep 05 22:29:55 CST 2017
+base.0=/Users/melody/Downloads/aip-ocr-android-sdk-1.3.0/OCRDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ede30aa83d00af3dc73265ece07c8064463b4ee
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/melody/Downloads/aip-ocr-android-sdk-1.3.0/OCRDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fb36cf0b7ff077484c0c8179579ba26f004e08a8/classes.dex
+base.1=/Users/melody/Downloads/aip-ocr-android-sdk-1.3.0/OCRDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fb36cf0b7ff077484c0c8179579ba26f004e08a8
+file.0=/Users/melody/Downloads/aip-ocr-android-sdk-1.3.0/OCRDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ede30aa83d00af3dc73265ece07c8064463b4ee/classes.dex
